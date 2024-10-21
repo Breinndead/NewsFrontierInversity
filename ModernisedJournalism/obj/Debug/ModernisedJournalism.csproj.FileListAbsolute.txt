@@ -1,0 +1,14 @@
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.csproj.AssemblyReference.cache
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.Properties.Resources.resources
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.csproj.GenerateResource.cache
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.csproj.CoreCompileInputs.cache
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\bin\Debug\ModernisedJournalism.exe.config
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\bin\Debug\ModernisedJournalism.exe
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\bin\Debug\ModernisedJournalism.pdb
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\Modernis.4175C6D7.Up2Date
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.exe
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.pdb
+C:\Users\jhask\source\repos\ModernisedJournalism\ModernisedJournalism\obj\Debug\ModernisedJournalism.Form1.resources
